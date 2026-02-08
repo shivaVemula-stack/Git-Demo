@@ -1,4 +1,6 @@
 Hellow Git, Get the user data !
 Process the Data!
 
-Create an avatar for user
+Create an avatar for use
+
+login and logout
