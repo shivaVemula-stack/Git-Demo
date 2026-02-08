@@ -1,2 +1,5 @@
 This is admin service feature
 add and remove or modify users
+
+manage database
+closing the connection
