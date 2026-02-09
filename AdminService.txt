@@ -1,7 +1,7 @@
 This is admin service feature
 add and remove or modify users
 
-manage database
+manage the database
 
 closing the connection in feature 2db
 
