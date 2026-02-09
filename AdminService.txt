@@ -2,7 +2,7 @@ This is admin service feature
 add and remove or modify users
 
 manage database
-closing the connection
+closing the connection in my db
 
 change1 in my database
 change2 in batman database
